@@ -51,7 +51,7 @@ ReelCompact 是给 macOS Finder 用的视频压缩工具。选中一个或多个
 3. 打开一次 App，它会自动注册 Finder 快速操作。
 4. 到 **系统设置 → 访达**，打开两个“压缩到20MB”开关。
 
-DMG 内含静态 FFmpeg、libx264、libx265 和 libvmaf，不依赖 Homebrew 或 Rosetta。
+DMG 内含静态 FFmpeg、libx264、libx265 和 libvmaf，不依赖 Homebrew 或 Rosetta。当前安装包使用 ad-hoc 签名、未经过 Apple 公证；如果 Gatekeeper 首次阻止打开，请按住 Control 点击 App，再选择“打开”。
 
 ### 使用
 
